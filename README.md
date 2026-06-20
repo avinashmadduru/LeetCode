@@ -18,4 +18,5 @@
 | [0595-big-countries](https://github.com/avinashmadduru/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/avinashmadduru/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/avinashmadduru/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/avinashmadduru/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 <!---LeetCode Topics End-->
